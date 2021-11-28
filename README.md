@@ -1,2 +1,2 @@
 # gitdb
-File database base on Git backend written in C#
+File database based on Git backend written in C#
